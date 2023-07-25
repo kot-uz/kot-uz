@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kot-uz
-- I'm front end developer
+- I'm a Front End developer
 
 <!---
 kot-uz/kot-uz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
